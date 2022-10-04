@@ -1,2 +1,2 @@
 # note
-This is a learning notes!
+This is a learning note!
